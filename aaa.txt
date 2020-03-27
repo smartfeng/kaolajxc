@@ -1,1 +1,4 @@
-function
+function fun(){
+	console.log(132)
+}
+fun()
